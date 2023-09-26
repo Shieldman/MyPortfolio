@@ -1,11 +1,11 @@
 import React from "react";
+import MainSlider from "../components/MainSlider/MainSlider";
 
 const Home = () => {
 
-
     return (
         <>
-            <h1>Welcome to my Portfolio!</h1>
+            <MainSlider title = {"This is the Home Page"}></MainSlider>
         </>
     )
 }

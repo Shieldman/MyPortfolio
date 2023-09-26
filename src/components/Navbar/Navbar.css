@@ -1,11 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 
 nav {
-    background-color: black;
-    height: 75px;
+   
+    height: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.navigation-button{
+    list-style: none;
+}
+.navigation-button>a:hover{
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .navigation-bar{
@@ -18,9 +25,7 @@ nav {
 
 .navigation-button>a{
     text-decoration: none;
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
-    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 15px;
+    font-family: 'Martian Mono', monospace;
 }
-

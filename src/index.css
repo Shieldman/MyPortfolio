@@ -1,8 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
 :root {
     width: 100%;
     margin: 0 auto;
+    background-color: #2a99749f ;
 }
 
 body {
     margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    height: calc(100vh - 50px - 30px);
 }

@@ -1,0 +1,31 @@
+.slider-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 30%;
+    font-family: 'Martian Mono', monospace;
+    padding: 10px;
+}
+
+.profile-picture{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+
+}
+
+.main-information>ul>li {
+    list-style: none;
+}
+.main-information>ul {
+    margin: 0px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.main-information {
+    font-size: 13px;
+}
