@@ -5,7 +5,7 @@ const Home = () => {
 
     return (
         <>
-            <MainSlider title = {"This is the Home Page"}></MainSlider>
+            <MainSlider ></MainSlider>
         </>
     )
 }
