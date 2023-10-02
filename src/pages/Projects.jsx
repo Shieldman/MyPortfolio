@@ -1,11 +1,12 @@
 import React from "react";
+import ProjectsSlider from "../components/ProjectsSlider/ProjectsSlider";
 
 const Projects = () => {
 
 
     return (
         <>
-            <h1>My Projects</h1>
+            <ProjectsSlider />
         </>
     )
 }

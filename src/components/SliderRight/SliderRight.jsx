@@ -11,7 +11,7 @@ const SliderRight = ({ title }) => {
 
         <p>My ultimate goal is to <b> combine my IT management expertise with my newfound development skills </b> to create innovative and efficient solutions that  <b> bridge the gap between technology and business needs</b>. I believe that my unique perspective and diverse skill set will allow me to bring a fresh approach to the ever-evolving IT landscape.</p>
 
-        <p><b>Thank you for visiting</b>, and I look forward to connecting with you 😊</p>
+        <p><b>Thank you for visiting</b>, and I look forward to connect with you 😊</p>
 
         <div className="connect-icons">
             <a href="https://www.linkedin.com/in/arnau-rovira-ravetllat-6b777478/" target="_blank"><img className="image-link" src="/images/linkedin-logo.png" alt="linkedin-icon" /></a>

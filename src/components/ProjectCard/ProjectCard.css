@@ -1,0 +1,21 @@
+.project-image{
+    width: 250px;
+}
+
+.project-card{
+    font-family: 'Martian Mono', monospace;
+}
+
+.project-description{
+    font-size: 12px;
+    max-width: 250px;
+}
+
+.project-title{
+    
+    color:  #DBD3D8;
+}
+
+.project-link{
+    font-size: 12px;
+}

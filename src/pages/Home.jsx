@@ -5,7 +5,9 @@ const Home = () => {
 
     return (
         <>
-            <MainSlider ></MainSlider>
+            <MainSlider >
+                
+            </MainSlider>
         </>
     )
 }

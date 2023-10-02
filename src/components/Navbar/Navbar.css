@@ -1,7 +1,4 @@
-
-
 nav {
-   
     height: 50px;
     display: flex;
     flex-direction: column;
@@ -23,9 +20,10 @@ nav {
     margin: 0;
 }
 
-.navigation-button>a{
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-    font-family: 'Martian Mono', monospace;
+.navigation-button > a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-family: 'Martian Mono', monospace;
+  transition: font-weight 0.3s ease; /* Smooth transition for font-weight */
 }

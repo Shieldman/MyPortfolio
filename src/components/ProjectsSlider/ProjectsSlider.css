@@ -1,0 +1,16 @@
+.projects-slider {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    max-width: 1000px;
+    justify-content: center;
+    font-family: 'Martian Mono', monospace;
+}
+
+.projects-gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+}
